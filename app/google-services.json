@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162272202021",
+    "project_id": "appfirestone12955345",
+    "storage_bucket": "appfirestone12955345.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162272202021:android:83a9344f6428345c099ecc",
+        "android_client_info": {
+          "package_name": "br.edu.up.rgm12955345"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk8d9vBOhxhwX2okuED2kcsCuRTLDzJaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

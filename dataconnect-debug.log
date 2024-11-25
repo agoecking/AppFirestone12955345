@@ -1,0 +1,11 @@
+I1125 14:59:48.583601   50376 load.go:37] Reloading schema and connectors...
+I1125 14:59:48.597468   50376 control.go:45] [engine.Service /emulator/AppFirestore12955345 27ea] UpdateSchema(): done sources: schema/schema.gql [1384B] 
+I1125 14:59:48.604765   50376 control.go:73] [engine.Service /emulator/AppFirestore12955345 27ea] UpdateConnector(default): done sources: connector/mutations.gql [1163B] connector/queries.gql [1855B] 
+I1125 14:59:48.620036   50376 codegen.go:82] [connector "default" kotlinSdk] Generating sources into "/Users/albrechtgoecking/AndroidStudioProjects/AppFirestore12955345/app/src/main/java/connectors/default"
+I1125 14:59:48.629745   50376 collector.go:107] schema extensions wrote into "/Users/albrechtgoecking/AndroidStudioProjects/AppFirestore12955345/dataconnect/.dataconnect/schema"
+Generated sources: prelude.gql [65151B] 
+I1125 14:59:48.630716   50376 collector.go:107] connector "default" kotlinSdk wrote into "/Users/albrechtgoecking/AndroidStudioProjects/AppFirestore12955345/app/src/main/java/connectors/default"
+Generated sources: DefaultConnectorEnums.kt [797B] DefaultConnector.kt [8315B] DefaultConnectorKeys.kt [799B] 
+I1125 14:59:48.630863   50376 load.go:115] Finished reloading
+I1125 14:59:48.635265   50376 dev.go:95] Listening on address (HTTP + gRPC): 127.0.0.1:9399
+I1125 14:59:48.636433   50376 dev.go:95] Listening on address (HTTP + gRPC): [::1]:9399
